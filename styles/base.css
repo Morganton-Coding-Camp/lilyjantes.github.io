@@ -2,7 +2,7 @@
 
 body {
   background:#FFCA33;
-  color:#008080;
+  color:#009494;
   font-family: 'Righteous', cursive;
   font-weight: 300;
   font-size: 16px;
@@ -78,7 +78,19 @@ iframe {
   background-repeat: no-repeat;
   object-fit: cover;
 }
-  
+
+.banner-text: {
+   display: inline-block;
+   margin: auto;
+   padding: 3ren;
+   width: auto;
+   text-align: right;
+   background: #009494;
+   color: #ffffff;
+   border: 10px solid #ffffff;
+   font-size: 3.5ren; 
+}
+
 .profile-img {
   max-height: 50vh;
   width: auto;
