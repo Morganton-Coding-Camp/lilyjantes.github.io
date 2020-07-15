@@ -75,6 +75,8 @@ iframe {
   padding: 5ren 1ren;
   background-image: url('../flowers-on-a-white-background-4207567.jpg');
   background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover;
 }
   
 .profile-img {
