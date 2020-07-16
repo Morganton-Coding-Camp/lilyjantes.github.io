@@ -81,7 +81,6 @@ iframe {
   text-align: center;
 }
 
-
  .banner-text {
   display: inline-block;
   margin: auto;
@@ -100,4 +99,23 @@ iframe {
   width: auto;
   border-radius: 50%;
 }
+
+.favorite-food {
+  background: #009494;
+  padding: 2rem;
+  color: #FFCA33;
+}
+
+.favorite-hobby {
+  background: #009494;
+  padding: 2rem;
+  color: #FFCA33;
+}
+
+.favorite-animals {
+  background: #009494;
+  padding: 2rem;
+  color: #FFCA33;
+}
+  
     
