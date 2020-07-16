@@ -72,12 +72,15 @@ iframe {
 
 .banner {
   min-height: 25vh;
-  padding: 5ren 1ren;
+  padding: 5rem 1rem;
   background-image: url('../flowers-on-a-white-background-4207567.jpg');
   background-position: center;
   background-repeat: no-repeat;
   object-fit: cover;
+  background-size: cover;
+  text-align: center;
 }
+
 
  .banner-text {
   display: inline-block;
