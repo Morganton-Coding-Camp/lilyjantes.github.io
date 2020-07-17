@@ -131,8 +131,8 @@ iframe {
 
 .btn-1 {
   font-family: 'Righteous', cursive;
-  background: #ff1493;
-  color: white;
+  background: #FFCA33;
+  color: #009494;
   padding: 1rem;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -141,18 +141,18 @@ iframe {
   text-decoration: none;
   display: inline-block;
   margin-top: 2rem;
-  border: 1px solid white;
+  border: 1px solid #009494;
   transition: border .3s ease;
 }
 
 .btn-1:hover {
-  border: 15px solid #1493ff;
+  border: 15px solid #009494;
 }
 
 .copyright {
   margin-top: 5rem;
-  background: white;
-  color: black;
+  background: #FFCA33;
+  color: #009494;
   text-align: center;
   padding: .5rem;
   font-size: .8rem;
